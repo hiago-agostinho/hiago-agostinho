@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Hoje trabalho com Full-Stack
-- 🌱 Trabalho e estudo: PHP, CakePHP e VueJs
+- 🌱 Trabalho e estudo: PHP, CakePHP Angular e VueJs
 
 <div align="center">
   <a href="https://github.com/hiago-agostinho/">
